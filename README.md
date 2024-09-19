@@ -16,3 +16,7 @@ files, networks, directories & API's.
 
 
 Convert an ESD File to a WIM File for Driver Updates in Your Windows Image - https://www.intel.com/content/www/us/en/support/articles/000023992/memory-and-storage/intel-optane-memory.html
+
+https://github.com/AndyFul/Hard_Configurator
+
+ARM currently not suppprted - https://github.com/safing/portmaster
